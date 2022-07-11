@@ -1,23 +1,31 @@
- comprehensive system for Food Delivery like UberEats, Doordash and Postmate. This is a course project for "Create UberEats with Python/Django and Swift 3" in v code . 
- FoodTasker is an Web Application Dashboard for restaurants to register, create Meals, monitor Orders and manage Transactions. Its main features are:
+# Foodtasker-django
+A comprehensive system for Food Delivery like UberEats, Doordash and Postmate. This is a course project for "Create UberEats with Python/Django and Swift 3" in Code4Startup. I extended some functions based on the existing project.
 
-Super Admin Dashboard to handle everything in the system
+## Introduction
 
-Sign in/Sign out process for Restaurants
+**FoodTasker** is an Web Application Dashboard for restaurants to register, create Meals, monitor Orders and manage Transactions. Its main features are:
+* Super Admin Dashboard to handle everything in the system
 
-Hosting the web app on Heroku
+* Sign in/Sign out process for Restaurants
 
-Page for Account information
+* Hosting the web app on Heroku
 
-Page for Restaurant to upload images and create Menu
+* Page for Account information
 
-Page for managing all Orders from Customer
+* Page for Restaurant to upload images and create Menu
 
-Real-time notification when new orders coming in
+* Page for managing all Orders from Customer
 
-Statistic bar charts and pie charts
+* Real-time notification when new orders coming in
 
-Process to listen and response API requests from clients
+* Statistic bar charts and pie charts
 
-Visa & Credit card process with Stripe
+* Process to listen and response API requests from clients
 
+* Visa & Credit card process with Stripe
+
+* Real-time updating Drivers's location on the Map
+
+## Credits
+
+leotrieu
